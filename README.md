@@ -55,7 +55,7 @@ Data cleaning was performed to ensure the dataset was free from errors and incon
 </p>
 
 
-### 3. Connecting Tableau to the PosgreSql as DataSource
+### 3. Connecting Tableau to the PosgreSql as a datasource
 <p align="center">
 <img width="500" alt="Connect to Database" src="https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/c32c8d90-0275-4ecd-99c5-4459854fe9ca">
 <img width="500" alt="Manage Tableau Connections" src="https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/f4728642-815e-4b6e-9156-b08ec97c07c1">
