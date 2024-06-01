@@ -38,7 +38,7 @@ In this project, I preprocessed an HR dataset and created three insightful Table
     Top 20 HR KPIs - Part 2
   </a>
 </br></br>
- <img width="600" alt="HR KPIs Medium" src="https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/d910b671-48de-42d3-8722-223d456a26dd">
+ <img width="800" alt="HR KPIs Medium" src="https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/d910b671-48de-42d3-8722-223d456a26dd">
 </p>
 
 
