@@ -55,7 +55,6 @@ Data cleaning was performed to ensure the dataset was free from errors and incon
 <p align="center">
 <img width="500" alt="Connect to Database" src="https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/f4609ae1-a1bf-4113-87b8-d0bb96ee60c5">
 <img width="500" alt="Manage Tableau Connections" src="https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/0c955048-6c61-4f3e-8d77-ec1acc2ccd27">
-
 </p>
 
 
