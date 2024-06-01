@@ -48,8 +48,8 @@ Data cleaning was performed to ensure the dataset was free from errors and incon
 
 ### 3. Connecting Tableau to PostgreSQL as a data source
 <p align="center">
-<img width="600" alt="Connect to Database" src="https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/c32c8d90-0275-4ecd-99c5-4459854fe9ca">
-<img width="600" alt="Manage Tableau Connections" src="https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/f4728642-815e-4b6e-9156-b08ec97c07c1">
+<img width="500" alt="Connect to Database" src="https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/c32c8d90-0275-4ecd-99c5-4459854fe9ca">
+<img width="500" alt="Manage Tableau Connections" src="https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/f4728642-815e-4b6e-9156-b08ec97c07c1">
 <img width="600" alt="Hyper File" src="https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/7c9ec122-9207-4ea2-a1a2-2b17ac5e157e">
 </p>
 </br></br>
@@ -58,8 +58,8 @@ Data cleaning was performed to ensure the dataset was free from errors and incon
 
 #### Final Tableau Dashboards
 <p align="center">
-  <img src="https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/b9cc1859-273d-4bd9-a6ac-020b7c6c5335" width="500"/>
-  <img src="https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/7a42866e-f389-45ad-8d2d-fd07b31c05d3" width="500"/>
+  <img src="https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/b9cc1859-273d-4bd9-a6ac-020b7c6c5335" width="600"/>
+  <img src="https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/7a42866e-f389-45ad-8d2d-fd07b31c05d3" width="600"/>
   <img src="https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/f1e59d72-28e8-490d-86aa-8aa61794f346" width="600"/>
 </p>
 
