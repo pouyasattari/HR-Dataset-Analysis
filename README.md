@@ -10,7 +10,7 @@ In this project, I preprocessed an HR dataset and created 3 insightful Tableau d
   <img src="https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/f1e59d72-28e8-490d-86aa-8aa61794f346" width="300"/>
 </p>
 
-### Open the Interactive Dashboards on **Tableau Public**
+### Interactive Dashboards on **Tableau Public**
 
 <p align="left">
   <a href="https://public.tableau.com/views/TableauVisualizations_17172558711230/Story1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link" target="_blank">
@@ -49,5 +49,7 @@ Data cleaning was performed to ensure the dataset was free from errors and incon
 - Standardizing data
 - Convert data types
 - Check Missing/NULL Values
-- 
+
+
+
 
