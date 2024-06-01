@@ -114,6 +114,12 @@ Data cleaning was performed to ensure the dataset was free from errors and incon
 
 
 - #### Download and Open the Tableau Workbook file on your own Tableau: [../HR-Data-Analysis-Tableau-Workbook.twbx](https://github.com/pouyasattari/HR-Dataset-Analysis/blob/main/HR-Data-Analysis-Tableau-Workbook.twbx)
+
+
+<p align="Left">
+<img width="219" alt="Screenshot 2024-06-02 at 01 23 40" src="https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/062237dd-8e60-4cb6-b75b-2bccaa69a173">
+
+</p>
 </br></br>
 
 
