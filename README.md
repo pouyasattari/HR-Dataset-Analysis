@@ -22,7 +22,6 @@ In this project, I preprocessed an HR dataset and created 3 insightful Tableau d
 
 # Project Steps
 
-## Data Preprocessing
 
 ### 1. Data Collection :  <img src="https://www.kaggle.com/static/images/site-logo.png" alt="Kaggle" width="70" />
 The dataset was sourced from [HR Dataset Kaggle](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set/data). 
