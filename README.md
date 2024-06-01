@@ -1,4 +1,4 @@
-# HR Dataset Analysis (A Full Data Analysis Project)
+ # HR Dataset Analysis (A Full Data Analysis Project)
 
 ## Introduction
 In this project, I preprocessed an HR dataset and created 3 insightful Tableau dashboards to visualize the data. The objective was to clean and transform the raw data to make it suitable for analysis and then present key insights in an interactive and user-friendly dashboard.
@@ -49,13 +49,13 @@ Data cleaning was performed to ensure the dataset was free from errors and incon
 - Convert data types
 - Check Missing/NULL Values
 
-##### Overview of the SQL Database (PosgreSql)
+##### Overview of the SQL Database (PostgreSQL)
 <p align="Left">
 <img width="700" alt="Overview of the Database" src="https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/322f9f7e-9a5a-41dc-97ce-d940205a69be">
 </p>
 
 
-### 3. Connecting Tableau to the PosgreSql as a datasource
+### 3. Connecting Tableau to PostgreSQL as a data source
 <p align="center">
 <img width="500" alt="Connect to Database" src="https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/c32c8d90-0275-4ecd-99c5-4459854fe9ca">
 <img width="500" alt="Manage Tableau Connections" src="https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/f4728642-815e-4b6e-9156-b08ec97c07c1">
