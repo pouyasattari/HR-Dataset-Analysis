@@ -39,6 +39,8 @@ The dataset was sourced from [HR Dataset Kaggle](https://www.kaggle.com/datasets
 | RecruitmentSource      | PerformanceScore       | EngagementSurvey       | EmpSatisfaction            |
 | SpecialProjectsCount   | LastPerformanceReview_Date | DaysLateLast30    | Absences                   |
 
+</br></br>
+
 ### 2. Data Cleaning by SQL : <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="70" />  <img src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png" alt="SQL" width="70" />
 
 Data cleaning was performed to ensure the dataset was free from errors and inconsistencies. 
@@ -55,7 +57,7 @@ Data cleaning was performed to ensure the dataset was free from errors and incon
 </p>
 
 #### Download SQL queries: [/Data-Cleaning-Queries.sql](https://github.com/pouyasattari/HR-Dataset-Analysis/blob/main/Data-Cleaning-Queries.sql)
-
+</br></br>
 
 
 ### 3. Connecting Tableau to PostgreSQL as a data source
