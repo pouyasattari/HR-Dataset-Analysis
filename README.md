@@ -108,7 +108,7 @@ Data cleaning was performed to ensure the dataset was free from errors and incon
   
 <p align="left">
   <a href="https://public.tableau.com/views/TableauVisualizations_17172558711230/Story1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link" target="_blank">
-    <img src="https://www.tableau.com/sites/default/files/2023-07/Tableau%20public%20module%20800x447.png" width="400" />
+    <img src="https://www.tableau.com/sites/default/files/2023-07/Tableau%20public%20module%20800x447.png" width="300" />
   </a>
 </p>
 
