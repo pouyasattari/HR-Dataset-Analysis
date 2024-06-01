@@ -1,7 +1,7 @@
 # HR Dataset Analysis (A Full Data Analysis Project)
 
 ## Introduction
-In this project, I undertook the task of preprocessing an HR dataset and creating an insightful Tableau dashboard to visualize the data. The objective was to clean and transform the raw data to make it suitable for analysis and then present key insights in an interactive and user-friendly dashboard.
+In this project, I preprocessed an HR dataset and created 3 insightful Tableau dashboards to visualize the data. The objective was to clean and transform the raw data to make it suitable for analysis and then present key insights in an interactive and user-friendly dashboard.
 
 ## Dashboards
 ![General Info](https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/b9cc1859-273d-4bd9-a6ac-020b7c6c5335)
