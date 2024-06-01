@@ -1,5 +1,17 @@
  # HR Dataset Analysis (A Full Data Analysis Project)
 
+
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Project Steps](#project-steps)
+  - [1. Data Collection](#1-data-collection---)
+  - [2. Data Cleaning by SQL](#2-data-cleaning-by-sql----)
+  - [3. Connecting Tableau to PostgreSQL as a data source](#3-connecting-tableau-to-postgresql-as-a-data-source)
+  - [4. Visualize the Data by Tableau](#4-visualize-the-data-by-tableau)
+ 
+
+
 ## Introduction
 In this project, I preprocessed an HR dataset and created 3 insightful Tableau dashboards to visualize the data. The objective was to clean and transform the raw data to make it suitable for analysis and then present key insights in an interactive and user-friendly dashboard.
 
@@ -56,23 +68,23 @@ Data cleaning was performed to ensure the dataset was free from errors and incon
 
 ### 4. Visualize the Data by Tableau
 
-#### Final Tableau Dashboards
+- #### Final Tableau Dashboards
 <p align="center">
   <img src="https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/b9cc1859-273d-4bd9-a6ac-020b7c6c5335" width="600"/>
   <img src="https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/7a42866e-f389-45ad-8d2d-fd07b31c05d3" width="600"/>
   <img src="https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/f1e59d72-28e8-490d-86aa-8aa61794f346" width="600"/>
 </p>
 
-#### Interactive Dashboards on **Tableau Public**
+- #### Interactive Dashboards on **Tableau Public**
 
 <p align="left">
   <a href="https://public.tableau.com/views/TableauVisualizations_17172558711230/Story1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link" target="_blank">
     <img src="https://www.tableau.com/sites/default/files/2023-07/Tableau%20public%20module%20800x447.png" width="400" />
   </a>
- </p>
+</p>
 
 
-#### Download and Open the Tableau Workbook file on your own Tableau: [../HR-Data-Analysis-Tableau-Workbook.twbx](https://github.com/pouyasattari/HR-Dataset-Analysis/blob/main/HR-Data-Analysis-Tableau-Workbook.twbx)
+- #### Download and Open the Tableau Workbook file on your own Tableau: [../HR-Data-Analysis-Tableau-Workbook.twbx](https://github.com/pouyasattari/HR-Dataset-Analysis/blob/main/HR-Data-Analysis-Tableau-Workbook.twbx)
 </br></br>
 
 
