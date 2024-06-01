@@ -9,6 +9,7 @@
   - [2. Data Cleaning by SQL](#2-data-cleaning-by-sql----)
   - [3. Connecting Tableau to PostgreSQL as a data source](#3-connecting-tableau-to-postgresql-as-a-data-source)
   - [4. Visualize the Data by Tableau](#4-visualize-the-data-by-tableau)
+       - [Dashboards as PDF](#download-as-pdf-people-analytics-dashboardpdf)
  
 
 
@@ -69,11 +70,14 @@ Data cleaning was performed to ensure the dataset was free from errors and incon
 ### 4. Visualize the Data by Tableau
 
 - #### Final Tableau Dashboards
+
+##### Download as PDF: [../People-Analytics-Dashboard.pdf](https://github.com/pouyasattari/HR-Dataset-Analysis/blob/main/People-Analytics-Dashboard.pdf)
 <p align="center">
   <img src="https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/b9cc1859-273d-4bd9-a6ac-020b7c6c5335" width="600"/>
   <img src="https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/7a42866e-f389-45ad-8d2d-fd07b31c05d3" width="600"/>
   <img src="https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/f1e59d72-28e8-490d-86aa-8aa61794f346" width="600"/>
 </p>
+
 
 - #### Interactive Dashboards on **Tableau Public**
 
