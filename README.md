@@ -11,7 +11,8 @@ In this project, I preprocessed an HR dataset and created 3 insightful Tableau d
 ## Data Preprocessing
 
 ### 1. Data Collection
-The dataset was sourced from [HR Dataset Kaggle](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set/data). It contained 311 records and 36 features, including:
+The dataset was sourced from [HR Dataset Kaggle](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set/data). 
+It contained 311 records and 36 features, including:
 
 - Employee_Name
 - EmpID
