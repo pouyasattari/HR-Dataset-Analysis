@@ -1,4 +1,8 @@
  # HR Dataset Analysis (A Full Data Analysis Project)
+
+[![Tableau Public](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau)](https://public.tableau.com/views/TableauVisualizations_17172558711230/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+[![Medium](https://img.shields.io/badge/Medium-Read-blue?logo=medium)](https://pouyasattari.medium.com/)
+
  
 <img width="1169" alt="HR KPIs" src="https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/cf0f80c5-159b-42a9-9e5b-ddd1e9a40076">
 
