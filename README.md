@@ -20,7 +20,7 @@ In this project, I preprocessed an HR dataset and created 3 insightful Tableau d
 
 -----
 
-# Let's Dive into the project
+# Project Steps
 
 ## Data Preprocessing
 
@@ -40,7 +40,7 @@ The dataset was sourced from [HR Dataset Kaggle](https://www.kaggle.com/datasets
 | RecruitmentSource      | PerformanceScore       | EngagementSurvey       | EmpSatisfaction            |
 | SpecialProjectsCount   | LastPerformanceReview_Date | DaysLateLast30    | Absences                   |
 
-### 2. Data Cleaning by SQL : <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="70" />  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" alt="SQL" width="70" />
+### 2. Data Cleaning by SQL : <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="70" />  <img src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png" alt="SQL" width="70" />
 
 Data cleaning was performed to ensure the dataset was free from errors and inconsistencies. 
 </br> The following steps were taken:
