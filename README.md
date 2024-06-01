@@ -56,7 +56,7 @@ Data cleaning was performed to ensure the dataset was free from errors and incon
 <img width="700" alt="Overview of the Database" src="https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/322f9f7e-9a5a-41dc-97ce-d940205a69be">
 </p>
 
-#### Download SQL queries: [/Data-Cleaning-Queries.sql](https://github.com/pouyasattari/HR-Dataset-Analysis/blob/main/Data-Cleaning-Queries.sql)
+#### Download SQL queries: [../Data-Cleaning-SQL-Queries.sql](https://github.com/pouyasattari/HR-Dataset-Analysis/blob/main/Data-Cleaning-SQL-Queries.sql)
 </br></br>
 
 
