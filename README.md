@@ -10,6 +10,7 @@
   - [3. Connecting Tableau to PostgreSQL as a data source](#3-connecting-tableau-to-postgresql-as-a-data-source)
   - [4. Visualize the Data by Tableau](#4-visualize-the-data-by-tableau)
        - [Dashboards as PDF](#download-as-pdf-people-analytics-dashboardpdf)
+       - [Open on Tableau Public](#interactive-dashboards-on-tableau-public)
  
 
 
@@ -79,8 +80,8 @@ Data cleaning was performed to ensure the dataset was free from errors and incon
 </p>
 
 
-- #### Interactive Dashboards on **Tableau Public**
-
+- #### Interactive Dashboards on **[Tableau Public](https://public.tableau.com/views/TableauVisualizations_17172558711230/Story1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)**
+  
 <p align="left">
   <a href="https://public.tableau.com/views/TableauVisualizations_17172558711230/Story1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link" target="_blank">
     <img src="https://www.tableau.com/sites/default/files/2023-07/Tableau%20public%20module%20800x447.png" width="400" />
