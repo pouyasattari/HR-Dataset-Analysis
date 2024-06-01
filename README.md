@@ -21,7 +21,7 @@
 ## Introduction
 In this project, I preprocessed an HR dataset and created three insightful Tableau dashboards to visualize the data. The objective was to clean and transform the raw data to make it suitable for analysis, and then present key insights in an interactive and user-friendly dashboard.
 
-These dashboards and analyses are based on HR KPIs (Key Performance Indicators). For a deeper understanding, you can read my Medium articles about the **most important HR KPIs**, available in two parts with formulas and examples:
+*These dashboards and analyses are based on HR KPIs (Key Performance Indicators).* *For a deeper understanding, you can read my Medium articles about the **most important HR KPIs**, available in two parts with formulas and examples:*
 
 <p align="left">
   <a href="https://pouyasattari.medium.com/top-20-hr-kpis-part-1-049c4737195e" target="_blank">
@@ -33,7 +33,11 @@ These dashboards and analyses are based on HR KPIs (Key Performance Indicators).
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="Medium Logo" width="20"/>
     Top 20 HR KPIs - Part 2
   </a>
+</br></br>
+ <img width="600" alt="HR KPIs Medium" src="https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/2e7f0c08-63f0-4e95-b413-513a53f35ef6">
+
 </p>
+
 
 </br></br>
 
