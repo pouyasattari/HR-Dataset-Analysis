@@ -50,6 +50,11 @@ Data cleaning was performed to ensure the dataset was free from errors and incon
 - Convert data types
 - Check Missing/NULL Values
 
+##### Overview of the SQL Database (PosgreSql)
+<p align="Left">
+<img width="700" alt="Overview of the Database" src="https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/322f9f7e-9a5a-41dc-97ce-d940205a69be">
+</p>
+
 
 ### 3. Connecting Tableau to the PosgreSql as DataSource
 <p align="center">
