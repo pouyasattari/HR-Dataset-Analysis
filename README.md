@@ -7,10 +7,12 @@
 - [Project Steps](#project-steps)
   - [1. Data Collection](#1-data-collection---)
   - [2. Data Cleaning by SQL](#2-data-cleaning-by-sql----)
+       - [SQL Queries](#download-sql-queries-data-cleaning-sql-queriessql)
   - [3. Connecting Tableau to PostgreSQL as a data source](#3-connecting-tableau-to-postgresql-as-a-data-source)
   - [4. Visualize the Data by Tableau](#4-visualize-the-data-by-tableau)
        - [Dashboards as PDF](#download-as-pdf-people-analytics-dashboardpdf)
        - [Open on Tableau Public](#interactive-dashboards-on-tableau-public)
+       - [Download Tableau Workbook](#download-and-open-the-tableau-workbook-file-on-your-own-tableau-hr-data-analysis-tableau-workbooktwbx)
  
 
 
