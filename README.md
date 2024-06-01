@@ -19,7 +19,17 @@
 
 
 ## Introduction
-In this project, I preprocessed an HR dataset and created 3 insightful Tableau dashboards to visualize the data. The objective was to clean and transform the raw data to make it suitable for analysis and then present key insights in an interactive and user-friendly dashboard.
+In this project, I preprocessed an HR dataset and created three insightful Tableau dashboards to visualize the data. The objective was to clean and transform the raw data to make it suitable for analysis, and then present key insights in an interactive and user-friendly dashboard.
+
+.
+
+These dashboards and analyses are based on HR KPIs (Key Performance Indicators). 
+</br> For a deeper understanding, you can read my Medium articles about the **most important HR KPIs**, </br> **Available in two parts with formulas and Examples:**
+
+- [Top 20 HR KPIs - Part 1](https://pouyasattari.medium.com/top-20-hr-kpis-part-1-049c4737195e)
+- [Top 20 HR KPIs - Part 2](https://pouyasattari.medium.com/top-20-hr-kpis-part-2-a4957ee7413b)
+
+</br></br>
 
 
 -----
