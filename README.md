@@ -10,7 +10,7 @@ In this project, I preprocessed an HR dataset and created 3 insightful Tableau d
   <img src="https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/f1e59d72-28e8-490d-86aa-8aa61794f346" width="300"/>
 </p>
 
-### Open the Dashboards on **Tableau Public**
+### Open the Interactive Dashboards on **Tableau Public**
 
 <p align="left">
   <a href="https://public.tableau.com/views/TableauVisualizations_17172558711230/Story1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link" target="_blank">
@@ -18,53 +18,32 @@ In this project, I preprocessed an HR dataset and created 3 insightful Tableau d
   </a>
 </p>
 
+-----
 
+# Let's Dive into the project
 
 ## Data Preprocessing
 
-### 1. Data Collection
+### 1. Data Collection :  <img src="https://www.kaggle.com/static/images/site-logo.png" alt="Kaggle" width="70" />
 The dataset was sourced from [HR Dataset Kaggle](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set/data). 
-It contained 311 records and 36 features, including:
+</br> It contained 311 records and 36 features, including:
 
-- Employee_Name
-- EmpID
-- MarriedID
-- MaritalStatusID
-- GenderID
-- EmpStatusID
-- DeptID
-- PerfScoreID
-- FromDiversityJobFairID
-- Salary
-- Termd
-- PositionID
-- Position
-- State
-- Zip
-- DOB
-- Sex
-- MaritalDesc
-- CitizenDesc
-- HispanicLatino
-- RaceDesc
-- DateofHire
-- DateofTermination
-- TermReason
-- EmploymentStatus
-- Department
-- ManagerName
-- ManagerID
-- RecruitmentSource
-- PerformanceScore
-- EngagementSurvey
-- EmpSatisfaction
-- SpecialProjectsCount
-- LastPerformanceReview_Date
-- DaysLateLast30
-- Absences
+|   ALL FEATURES         |                        |                        |                            |
+|------------------------|------------------------|------------------------|----------------------------|
+| Employee_Name          | EmpID                  | MarriedID              | MaritalStatusID            |
+| GenderID               | EmpStatusID            | DeptID                 | PerfScoreID                |
+| FromDiversityJobFairID | Salary                 | Termd                  | PositionID                 |
+| Position               | State                  | Zip                    | DOB                        |
+| Sex                    | MaritalDesc            | CitizenDesc            | HispanicLatino             |
+| RaceDesc               | DateofHire             | DateofTermination      | TermReason                 |
+| EmploymentStatus       | Department             | ManagerName            | ManagerID                  |
+| RecruitmentSource      | PerformanceScore       | EngagementSurvey       | EmpSatisfaction            |
+| SpecialProjectsCount   | LastPerformanceReview_Date | DaysLateLast30    | Absences                   |
 
-### 2. Data Cleaning by SQL
-Data cleaning was performed to ensure the dataset was free from errors and inconsistencies. The following steps were taken:
+### 2. Data Cleaning by SQL : <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="70" />  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" alt="SQL" width="70" />
+
+Data cleaning was performed to ensure the dataset was free from errors and inconsistencies. 
+</br> The following steps were taken:
 
 - Remove Duplicates
 - Standardizing data
