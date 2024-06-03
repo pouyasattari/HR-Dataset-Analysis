@@ -7,7 +7,6 @@
 <img width="1169" alt="HR KPIs" src="https://github.com/pouyasattari/HR-Dataset-Analysis/assets/60811552/cf0f80c5-159b-42a9-9e5b-ddd1e9a40076">
 
 
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Project Steps](#project-steps)
