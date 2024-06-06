@@ -124,4 +124,6 @@ Data cleaning was performed to ensure the dataset was free from errors and incon
 </p>
 </br></br>
 
-
+*Thank you for taking the time to read this article; your valuable feedback is warmly welcomed.* </br>
+*Furthermore, I would be happy to assist you in solving a puzzle in your Data journey.* </br>
+*pouya@sattari.org*
